@@ -1,7 +1,7 @@
 pipeline {
     agent any
    stages {
- stage('integrating Git with Jenkin') {
+ stage('integrating  Git with Jenkin') {
              
             steps {
                 echo "hello-world"

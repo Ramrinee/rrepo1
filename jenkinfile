@@ -4,7 +4,7 @@ pipeline {
  stage('integrating  Git with Jenkin') {
              
             steps {
-                echo "hello-world"
+                echo "hello - world"
  
             }
         }
